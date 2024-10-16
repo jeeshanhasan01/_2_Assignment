@@ -1,5 +1,5 @@
 import java.util.*;
-public class Count_Digits
+public class _2_Count_Digits
 {
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
