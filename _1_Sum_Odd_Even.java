@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class _1_Sum_Odd_Even {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt(); // Take input n
